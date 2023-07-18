@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adnanlearncoding
+- 👋 Hi, I’m @codes with Adnan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python,ML and NLP
 - 💞️ I’m looking to collaborate on ...
